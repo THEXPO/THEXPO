@@ -9,11 +9,6 @@
 - 🚀 Open to collaboration and always looking to grow my skillset
 
 ## 📈 GitHub Stats
-
-![THEXPO's GitHub stats](https://github-readme-stats.vercel.app/api?username=THEXPO&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=THEXPO&layout=compact&theme=tokyonight)
-
 ![Profile Views](https://komarev.com/ghpvc/?username=THEXPO&style=for-the-badge)
 ![GitHub followers](https://img.shields.io/github/followers/THEXPO?style=for-the-badge&label=Followers)
 ![GitHub User's stars](https://img.shields.io/github/stars/THEXPO?style=for-the-badge&label=Stars)
