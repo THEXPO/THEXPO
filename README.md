@@ -52,6 +52,6 @@
 
 ## 🔗 Links
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/THEXPO)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kanishq-dhatrak-a687b6290/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-1E90FF?style=for-the-badge&logo=google-chrome)](https://your-portfolio.com)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:your@email.com)
